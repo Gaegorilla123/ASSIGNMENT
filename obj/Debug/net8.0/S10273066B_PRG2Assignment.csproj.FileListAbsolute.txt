@@ -1,0 +1,14 @@
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\bin\Debug\net8.0\S10273066B_PRG2Assignment.exe
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\bin\Debug\net8.0\S10273066B_PRG2Assignment.deps.json
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\bin\Debug\net8.0\S10273066B_PRG2Assignment.runtimeconfig.json
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\bin\Debug\net8.0\S10273066B_PRG2Assignment.dll
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\bin\Debug\net8.0\S10273066B_PRG2Assignment.pdb
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.AssemblyInfoInputs.cache
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.AssemblyInfo.cs
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.dll
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\refint\S10273066B_PRG2Assignment.dll
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.pdb
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\S10273066B_PRG2Assignment.genruntimeconfig.cache
+C:\Users\bigch\Downloads\ASEM TWO\PROGRAMMING 2\ASSIGNMENT\S10273066B_PRG2Assignment\S10273066B_PRG2Assignment\obj\Debug\net8.0\ref\S10273066B_PRG2Assignment.dll
