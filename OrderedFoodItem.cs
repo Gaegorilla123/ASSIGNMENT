@@ -1,4 +1,9 @@
-﻿using System;
+﻿//==========================================================
+// Student Number : S10273066B
+// Student Name : Ng Jia Ying
+// Partner Name : Surapureddy Hasini
+//==========================================================
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -6,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace S10273066B_PRG2Assignment
+namespace S10273987F_PRG2Assignment
 {
     class OrderedFoodItem : FoodItem // ORDEREDFOODITEM is a FOODITEM with order specific details
     {

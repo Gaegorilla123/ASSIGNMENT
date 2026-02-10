@@ -1,14 +1,14 @@
 ﻿//==========================================================
 // Student Number : S10273066B
-// Student Name : [Your Name]
-// Partner Name : [Partner Name]
+// Student Name : Ng Jia Ying
+// Partner Name : Surapureddy Hasini
 //==========================================================
 
 using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace S10273066B_PRG2Assignment
+namespace S10273987F_PRG2Assignment
 {
     class DataLoader // loads, reads and stores the data in the csv files + creates objects (gets called in the program.cs later)
     {
@@ -18,7 +18,7 @@ namespace S10273066B_PRG2Assignment
 
             string[] lines = File.ReadAllLines(filePath);
 
-            for (int i = 1; i < lines.Length; i++) // skip header
+            for (int i = 1; i < lines.Length; i++) //skip header
             {
                 if (string.IsNullOrWhiteSpace(lines[i])) continue;
 
@@ -30,7 +30,7 @@ namespace S10273066B_PRG2Assignment
 
                 Restaurant r = new Restaurant(restaurantId, name, email);
 
-                // each restaurant must have at least one menu
+                //each restuarant has one menu
                 r.AddMenu(new Menu(restaurantId, name));
 
                 restaurants.Add(r);
@@ -43,7 +43,7 @@ namespace S10273066B_PRG2Assignment
         {
             string[] lines = File.ReadAllLines(filePath);
 
-            for (int i = 1; i < lines.Length; i++) // skip header
+            for (int i = 1; i < lines.Length; i++) 
             {
                 if (string.IsNullOrWhiteSpace(lines[i])) continue;
 
@@ -54,10 +54,10 @@ namespace S10273066B_PRG2Assignment
                 string desc = parts[2].Trim();
                 double price = Convert.ToDouble(parts[3].Trim());
 
-                // fooditems csv has no customise column
+                //fooditems csv has no customise column
                 FoodItem fi = new FoodItem(itemName, desc, price,"");
 
-                // find restaurant + add into its first menu (Main Menu)
+                //find restaurant and add into its first menu 
                 foreach (Restaurant r in restaurants)
                 {
                     if (r.RestaurantId == restaurantId)

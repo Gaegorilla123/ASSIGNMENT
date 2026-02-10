@@ -1,7 +1,7 @@
 ﻿//==========================================================
 // Student Number : S10273066B
-// Student Name : [Your Name]
-// Partner Name : [Partner Name]
+// Student Name : Ng Jia Ying
+// Partner Name : Surapureddy Hasini
 //==========================================================
 
 using System;
@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace S10273066B_PRG2Assignment
+namespace S10273987F_PRG2Assignment
 {
     class Restaurant //RESTAURANT stores multiple MENUS and SPECIALOFFERS and receives multiple ORDERS, create a menu list to store menu objects, create a specialoffer list to store specialoffer objects, create an order list to store order obkects
     {
@@ -22,11 +22,11 @@ namespace S10273066B_PRG2Assignment
 
         public List<Menu> MenuList { get; set; } = new List<Menu>();
         public List<SpecialOffer> SpecialOfferList { get; set; } = new List<SpecialOffer>();
-        public List<Order> OrderList { get; set; } = new List<Order>();
+        public List<Order> restaurantOrderList { get; set; } = new List<Order>();
 
         public void DisplayOrders()
         {
-            foreach (Order order in OrderList)
+            foreach (Order order in restaurantOrderList)
             {
                 Console.WriteLine(order);
             }

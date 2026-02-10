@@ -1,15 +1,16 @@
 ﻿//==========================================================
 // Student Number : S10273066B
-// Student Name : [Your Name]
-// Partner Name : [Partner Name]
+// Student Name : Ng Jia Ying
+// Partner Name : Surapureddy Hasini
 //==========================================================
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace S10273066B_PRG2Assignment
+namespace S10273987F_PRG2Assignment
 {
     class Menu //MENU stores multiple FOODITEM objects, create a fooditem list to store fooditem objects
     {
